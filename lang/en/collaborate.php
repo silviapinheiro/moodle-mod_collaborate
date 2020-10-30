@@ -50,3 +50,6 @@ $string['pageviewed'] = 'Page Viewed';
 // help button
 $string['activityname'] = 'Activity Title'; 
 $string['activityname_help'] = 'Please select a title for your activity page';
+// Mod form specific collaborate settings.
+$string['title'] = 'Activity Title: ';
+$string['texteditor'] = 'Instructions {$a}';
