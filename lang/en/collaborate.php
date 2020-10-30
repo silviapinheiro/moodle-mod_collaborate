@@ -47,3 +47,6 @@ $string['pluginname'] = 'collaborate';
 $string['title'] = 'Activity Title: ';
 // event
 $string['pageviewed'] = 'Page Viewed';
+// help button
+$string['activityname'] = 'Activity Title'; 
+$string['activityname_help'] = 'Please select a title for your activity page';
